@@ -1,7 +1,7 @@
 # Bottleneck Adapters for Identification of Cancer 
 
-This repository hosts the code for the experiments done in the paper "Using Bottleneck Adapters to Identify Cancer in Clinical Notes under
-Low-Resource Constraints". 
+This repository hosts the code for the experiments done in the paper `Using Bottleneck Adapters to Identify Cancer in Clinical Notes under
+Low-Resource Constraints`. 
 
 ### Reference to preprint
 ```
